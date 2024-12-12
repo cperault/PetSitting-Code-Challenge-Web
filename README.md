@@ -60,7 +60,7 @@ This will generate a CSV file named `sitters.csv`.
 
 Once you run the CLI program, you should see the following output in Terminal:
 
-```bash
+```
 Reading "reviews.csv" in progress...😸
 
 Parsing Review data for 500 records....😼
